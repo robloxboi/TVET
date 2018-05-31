@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Minesweeper
+namespace Minesweepe
 {
     [RequireComponent(typeof(SpriteRenderer))]
     public class Tile : MonoBehaviour
